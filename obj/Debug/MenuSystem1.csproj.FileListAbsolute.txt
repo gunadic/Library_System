@@ -1,0 +1,261 @@
+C:\Temp\MenuSystem1\bin\Debug\MenuSystem1.exe
+C:\Temp\MenuSystem1\bin\Debug\MenuSystem1.pdb
+C:\Temp\MenuSystem1\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\MenuSystem1\obj\Debug\MenuSystem1.MainMenu.resources
+C:\Temp\MenuSystem1\obj\Debug\MenuSystem1.Properties.Resources.resources
+C:\Temp\MenuSystem1\obj\Debug\MenuSystem1.csproj.GenerateResource.Cache
+C:\Temp\MenuSystem1\obj\Debug\MenuSystem1.exe
+C:\Temp\MenuSystem1\obj\Debug\MenuSystem1.pdb
+C:\Temp\MenuSystem1\obj\Debug\MenuSystem1.Users.resources
+C:\Temp\MenuSystem1\obj\Debug\MenuSystem1.Faculty.resources
+\\ananke.cs.trinity.edu\3321\Douglas Wolf\Work In Progress\MenuSystem1\obj\Debug\MenuSystem1.exe
+\\ananke.cs.trinity.edu\3321\Douglas Wolf\Work In Progress\MenuSystem1\obj\Debug\MenuSystem1.pdb
+C:\Users\Patricia\Desktop\MenuSystem1\obj\Debug\MenuSystem1.exe
+C:\Users\Patricia\Desktop\MenuSystem1\obj\Debug\MenuSystem1.pdb
+C:\Users\Patricia\Desktop\MenuSystem1\bin\Debug\MenuSystem1.exe
+C:\Users\Patricia\Desktop\MenuSystem1\bin\Debug\MenuSystem1.pdb
+C:\Users\Patricia\Desktop\MenuSystem1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patricia\Desktop\MenuSystem1\obj\Debug\MenuSystem1.Faculty.resources
+C:\Users\Patricia\Desktop\MenuSystem1\obj\Debug\MenuSystem1.MainMenu.resources
+C:\Users\Patricia\Desktop\MenuSystem1\obj\Debug\MenuSystem1.Properties.Resources.resources
+C:\Users\Patricia\Desktop\MenuSystem1\obj\Debug\MenuSystem1.Users.resources
+C:\Users\Patricia\Desktop\MenuSystem1\obj\Debug\MenuSystem1.csproj.GenerateResource.Cache
+E:\Prototype1\obj\Debug\MenuSystem1.exe
+E:\Prototype1\obj\Debug\MenuSystem1.pdb
+E:\Prototype1\bin\Debug\MenuSystem1.exe
+E:\Prototype1\bin\Debug\MenuSystem1.pdb
+E:\Prototype1\obj\Debug\ResolveAssemblyReference.cache
+E:\Prototype1\obj\Debug\MenuSystem1.Administrator.resources
+E:\Prototype1\obj\Debug\MenuSystem1.Faculty.resources
+E:\Prototype1\obj\Debug\MenuSystem1.MainMenu.resources
+E:\Prototype1\obj\Debug\MenuSystem1.SearchMedia.resources
+E:\Prototype1\obj\Debug\MenuSystem1.Properties.Resources.resources
+E:\Prototype1\obj\Debug\MenuSystem1.Users.resources
+E:\Prototype1\obj\Debug\MenuSystem1.csproj.GenerateResource.Cache
+F:\Prototype1\obj\Debug\MenuSystem1.exe
+F:\Prototype1\obj\Debug\MenuSystem1.pdb
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.exe
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.pdb
+C:\Users\Patricia\Desktop\Prototype1\bin\Debug\MenuSystem1.exe
+C:\Users\Patricia\Desktop\Prototype1\bin\Debug\MenuSystem1.pdb
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.Administrator.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.Faculty.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.MainMenu.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.SearchMedia.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.Properties.Resources.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.csproj.GenerateResource.Cache
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.Login.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.Student.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.AddBook.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.AddDVD.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.AddMedia.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.AddCD.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.AddMagazine.resources
+C:\Users\Patricia\Desktop\Prototype1\obj\Debug\MenuSystem1.Vendor.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.exe
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.pdb
+C:\Users\pperez2\Desktop\Prototype2\bin\Debug\MenuSystem1.exe
+C:\Users\pperez2\Desktop\Prototype2\bin\Debug\MenuSystem1.pdb
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.AddBook.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.AddCD.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.AddDVD.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.AddMagazine.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.AddMedia.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.Administrator.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.Faculty.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.Login.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.MainMenu.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.SearchMedia.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.Properties.Resources.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.Student.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.Vendor.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.csproj.GenerateResource.Cache
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.Fees.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.OrderBook.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.OrderCD.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.OrderDVD.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.OrderMagazine.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.CheckoutBook.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.CheckoutCD.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.CheckoutDVD.resources
+C:\Users\pperez2\Desktop\Prototype2\obj\Debug\MenuSystem1.CheckoutMagazine.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.exe
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.pdb
+C:\Users\Patricia\Desktop\Prototype3\bin\Debug\MenuSystem1.exe
+C:\Users\Patricia\Desktop\Prototype3\bin\Debug\MenuSystem1.pdb
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.AddBook.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.AddCD.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.AddDVD.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.AddMagazine.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.AddMedia.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.CheckoutBook.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.CheckoutCD.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.CheckoutDVD.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.CheckoutMagazine.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.Faculty.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.Fees.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.Login.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.MainMenu.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.OrderBook.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.OrderCD.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.OrderDVD.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.OrderMagazine.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.SearchMedia.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.Properties.Resources.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.Student.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.Vendor.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.csproj.GenerateResource.Cache
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.StudentReport.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.Librarian.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.FacultyReport.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.LibrarianReport.resources
+C:\Users\Patricia\Desktop\Prototype3\obj\Debug\MenuSystem1.VendorReport.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.exe
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.pdb
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.AddBook.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.AddCD.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.AddDVD.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.AddMagazine.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.Email.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.Librarian.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.CheckoutBook.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.CheckoutCD.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.CheckoutDVD.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.CheckoutMagazine.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.Faculty.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.FacultyReport.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.Fees.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.LibrarianReport.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.Login.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.OrderBook.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.OrderCD.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.OrderDVD.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.OrderMagazine.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.SearchMedia.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.Properties.Resources.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.Student.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.StudentReport.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.Vendor.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.VendorReport.resources
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\obj\Debug\MenuSystem1.csproj.GenerateResource.Cache
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\bin\Debug\MenuSystem1.exe
+C:\Users\Patricia\Desktop\Software Engineering\PrototypeFinal\bin\Debug\MenuSystem1.pdb
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.exe
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.pdb
+C:\Users\pperez2\Desktop\PrototypeFinal\bin\Debug\MenuSystem1.exe
+C:\Users\pperez2\Desktop\PrototypeFinal\bin\Debug\MenuSystem1.pdb
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddBook.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddCD.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddDVD.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddMagazine.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Email.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Librarian.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Faculty.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.FacultyReport.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Fees.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.LibrarianReport.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Login.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.TextMessage.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.OrderBook.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.OrderCD.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.OrderDVD.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.OrderMagazine.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.SearchMedia.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Properties.Resources.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Student.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.StudentReport.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Vendor.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.VendorReport.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.csproj.GenerateResource.Cache
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.exe
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.pdb
+C:\Users\Patricia\Desktop\PrototypeFinal\bin\Debug\MenuSystem1.exe
+C:\Users\Patricia\Desktop\PrototypeFinal\bin\Debug\MenuSystem1.pdb
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddBook.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddCD.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddDVD.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddMagazine.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.CheckOut.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Email.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Librarian.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.CheckoutBook.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.CheckoutCD.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.CheckoutDVD.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.CheckoutMagazine.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Faculty.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.FacultyReport.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Fees.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.LibrarianReport.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Login.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Search.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.TextMessage.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.OrderBook.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.OrderCD.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.OrderDVD.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.OrderMagazine.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.SearchMedia.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Properties.Resources.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Student.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.StudentReport.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Vendor.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.VendorReport.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.csproj.GenerateResource.Cache
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddBookCopy.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddUser.resources
+C:\Users\Patricia\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.ViewUser.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddCopy.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.AddUser.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.CheckOut.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Search.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.ViewUser.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.MainMenu2.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Undelete.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.NewPurchaseOrder.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.Purchase_Order_History.resources
+C:\Users\pperez2\Desktop\PrototypeFinal\obj\Debug\MenuSystem1.OrderDetails.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.exe
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.pdb
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.AddBook.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.AddCD.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.AddCopy.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.AddDVD.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.AddMagazine.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.AddUser.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.CheckOut.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.Email.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.Librarian.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.Faculty.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.FacultyReport.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.Fees.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.LibrarianReport.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.Login.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.MainMenu2.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.NewPurchaseOrder.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.Purchase_Order_History.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.OrderDetails.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.Search.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.TextMessage.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.Undelete.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.UserReport.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.ViewUser.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.OrderBook.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.OrderCD.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.OrderDVD.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.OrderMagazine.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.SearchMedia.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.Properties.Resources.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.Student.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.StudentReport.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.Vendor.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.VendorReport.resources
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.csproj.GenerateResource.Cache
+C:\Users\pperez2\Desktop\PrototypeFinal2\bin\Debug\MenuSystem1.exe
+C:\Users\pperez2\Desktop\PrototypeFinal2\bin\Debug\MenuSystem1.pdb
+C:\Users\pperez2\Desktop\PrototypeFinal2\obj\Debug\MenuSystem1.CheckIn.resources
